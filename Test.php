@@ -1,9 +1,11 @@
 <?php
 
-class Demo
+class Test
 {
     public static function test()
     {
-        echo "Git Task";
+        echo "Hello World";
+        echo "Test";
+
     }
 }
