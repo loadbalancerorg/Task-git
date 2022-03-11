@@ -1,9 +1,9 @@
 <?php
 
-class Test
+class Demo
 {
-public static function test()
-{
-    echo "Git Task";
-}
+    public static function test()
+    {
+        echo "Git Task";
+    }
 }
