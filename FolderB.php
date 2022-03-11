@@ -1,6 +1,6 @@
 <?php
 
-class folderB
+class FolderB
 {
     public static function test()
     {
