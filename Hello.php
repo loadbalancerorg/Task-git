@@ -6,5 +6,7 @@ class folderA
     {
         echo "Hello World";
         echo "Welcome";
+        echo "Hello World Again";
+        echo "Welcome Again";
     }
 }
